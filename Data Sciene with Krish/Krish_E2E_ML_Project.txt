@@ -1,0 +1,14 @@
+End to End ML Project with Deployment-Github and Code Set Up:
+
+---------------------------------------------------------------------------------------
+
+	Day 1: 09 March 2023 - 14th April 2023
+	
+	Agenda :
+		1. Set-up the github {Repository }
+			a) new environment
+			b) setup.py
+			c) requirements.txt
+		
+		2. Src folder and build the package
+		
